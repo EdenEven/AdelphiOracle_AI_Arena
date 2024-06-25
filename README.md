@@ -1,2 +1,4 @@
 # AdelphiOracle_AI_Arena
-A wide array of AI essences from conversational bots to complete video generating capable bots 
+complete lyrics curator, music generator, picture to video compiler plus a
+video editor tool equal to divinci, everything a music artist, singwriter bideo creator needs in one platform. 
+
