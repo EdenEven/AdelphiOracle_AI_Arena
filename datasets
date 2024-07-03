@@ -1,3 +1,42 @@
 from datasets import load_dataset
 
-ds = load_dataset("kibru/rap-lyrics-v3")
+ds = load_dataset("kibru/rap-lyrics-v3")from datasets import load_dataset
+
+ds = load_dataset("kibru/rap-lyrics-v2")
+
+from datasets import load_dataset
+
+ds = load_dataset("gmenon/slt-lyrics-audio")
+
+from datasets import load_dataset
+
+ds = load_dataset("FinchResearch/Lyrics")
+
+from datasets import load_dataset
+
+ds = load_dataset("cmsolson75/LLM_artist_lyrics")
+
+from datasets import load_dataset
+
+ds = load_dataset("brunomaribeiro/ts_lyricsgenerationdataset")
+
+from datasets import load_dataset
+
+ds = load_dataset("sebastiandizon/genius-song-lyrics")from datasets import load_dataset
+
+ds = load_dataset("nateraw/rap-lyrics-v1")from datasets import load_dataset
+
+ds = load_dataset("sonia12138/lyrics-emotion")
+
+from datasets import load_dataset
+
+ds = load_dataset("imtheai/lyricsllm")
+
+from datasets import load_dataset
+
+ds = load_dataset("Koyd111/hiphop-song-lyrics")
+
+from datasets import load_dataset
+
+ds = load_dataset("Koyd111/alpaca-hiphop-lyrics")
+
